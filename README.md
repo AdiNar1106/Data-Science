@@ -23,16 +23,16 @@ a) Data Analysis: *Complete*
 * NumPy
 * Pandas
 
-b) Data Visualization   *Complete*     
+b) Data Visualization:   *Complete*     
 * MatplotLib
 * Seaborn
 * Pandas in-built visualization tool
 * Plotly and Cufflinks
 * Geographical Plotting
 
-c) Data Capstone Project using all the above mentioned tools. *Complete*
+c) Data Capstone Project using all the above mentioned tools: *Complete*
   
-d) Machine Learning
+d) Machine Learning:
 
 * Linear Regression
 * Logistic Regression
