@@ -15,6 +15,9 @@ Repository for my Data Science Projects and Implementations
 #### Financial Analysis Project
 * Analyzed stocks, returns and risks of different banks such as Bank of America, CitiGroup, JP Norgan, Morgan Stanley, etc. Visualized them view the stock movement.
 
+#### Predicting Credit Card Approvals
+* Built a Machine Learning Model to determine whether a credit card application will be approved.
+
 #### Python for Data Science and Machine Learning (Udemy)
 * This folder contains my projects and excercises from Python for Data Science and Machine Learning course by Jose Portilla on Udemy.
 * The course covers topics such as:
