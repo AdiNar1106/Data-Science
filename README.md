@@ -1,5 +1,5 @@
 # Data-Science
-Repository for my Data Science Projects and Implementations
+Data Science Portfolio by Aditya Narayanan
 
 ### Descriptions
 
