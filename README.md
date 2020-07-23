@@ -12,6 +12,9 @@ Data Science Portfolio by Aditya Narayanan
 #### Exploring the Bitcoin Currency Market
 * Project to analyze the rise of the bitcoin currency market and compare different cryptocurrencies. Focus: Exploratory Data Analysis.
 
+#### Fake News Classifier
+* Classifier to predict Fake vs Real news for a dataset containing political news and headlines. Built a vectorizer to classify tasks as Real and Fake.
+
 #### Financial Analysis Project
 * Analyzed stocks, returns and risks of different banks such as Bank of America, CitiGroup, JP Norgan, Morgan Stanley, etc. Visualized them view the stock movement. Focus: Exploratory Data Analysis.
 
