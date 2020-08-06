@@ -1,4 +1,6 @@
-# Analyzing stock sentiment on financial news headlines from FINVIZ.com
+''' Analyzing stock sentiment on financial news headlines from FINVIZ.com'''
+__author__ = "Aditya Narayanan"
+
 # Web scraped files in datasets folder
 from bs4 import BeautifulSoup
 import os
